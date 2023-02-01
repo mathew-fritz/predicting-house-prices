@@ -4,7 +4,7 @@ This project uses the following data which was imported, cleaned, merged, and ex
 ## Federal Reserve Data
 - [Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
 - [Rental Vacancy Rate](https://fred.stlouisfed.org/series/RRVRUSQ156N)
-- [30 Year Fixed Mortage Rate](https://fred.stlouisfed.org/series/MORTGAGE30US)
+- [30 Year Fixed Mortgage Rate](https://fred.stlouisfed.org/series/MORTGAGE30US)
 
 ## [Zillow Data](https://www.zillow.com/research/data/)
 - Zillow Home Value Index (ZHVI, raw, weekly)
@@ -16,7 +16,7 @@ A random forest machine learning model was then made to help predict future hous
 # Results
 - The initial accuracy of the model was approximately 57%. 
 - Once additional variables (yearly ratios) were added, the accuracy of the model improved to 66%, a 9% increase.
-- The most imporant variables to the model were adjusted price and value (ZHVI).
+- The most important variables to the model were adjusted price and value (ZHVI).
 
 # Ways to improve the model
 - Try different algorithm types (such as support vector machine or decision tree).
