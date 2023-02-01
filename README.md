@@ -1,4 +1,4 @@
-# predicting-house-prices
+# Predicting House Prices
 This project uses the following data which was imported, cleaned, merged, and explored before making the model: 
 
 ## Federal Reserve Data
