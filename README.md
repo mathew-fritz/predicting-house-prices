@@ -7,7 +7,7 @@ This project uses the following data which was imported, cleaned, merged, and ex
 - [30 Year Fixed Mortage Rate](https://fred.stlouisfed.org/series/MORTGAGE30US)
 
 ## [Zillow Data](https://www.zillow.com/research/data/)
-- Zillow Home Value Index (ZHVI)
+- Zillow Home Value Index (ZHVI, raw, weekly)
 - Median sale price (raw, all homes, weekly)
 
 # Model Creation
@@ -19,5 +19,5 @@ A random forest machine learning model was then made to help predict future hous
 - The most imporant variables to the model were adjusted price and value (ZHVI).
 
 # Ways to improve the model
-- Try different algorithm types (such as Support Vector Machine, or decision tree)
+- Try different algorithm types (such as support vector machine or decision tree)
 - Find extra data to use as additional variables (news articles for example)
