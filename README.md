@@ -19,5 +19,5 @@ A random forest machine learning model was then made to help predict future hous
 - The most imporant variables to the model were adjusted price and value (ZHVI).
 
 # Ways to improve the model
-- Try different algorithm types (such as support vector machine or decision tree)
-- Find extra data to use as additional variables (news articles for example)
+- Try different algorithm types (such as support vector machine or decision tree).
+- Find extra data to use as additional variables (news articles for example).
